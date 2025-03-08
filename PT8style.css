@@ -1,0 +1,18 @@
+
+element {
+  background-image: url(https://media.istockphoto.com/id/1001529446/photo/beautiful-rice-and-sunflower-farm-on-sunset-sky.jpg?s=612x612&w=0&k=20&c=kXVC7Ay9DEuN5eCkyiF_sFLzKmZ2k7G5AHVym8w4Aqg=);
+  background-position: center;
+}
+
+.fade-in {
+  opacity: 50;
+  transition: 2s ease-out;
+}
+
+p {
+  text-align: justify;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
